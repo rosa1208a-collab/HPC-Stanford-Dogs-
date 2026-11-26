@@ -1,0 +1,7 @@
+datos
+.venv
+__pycache__
+.pytest_cache
+*.py[cod]
+README.md
+test_worker.py

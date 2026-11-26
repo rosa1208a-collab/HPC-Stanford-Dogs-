@@ -1,0 +1,7 @@
+datos/entrada/
+datos/salida/
+datos/.stanforddogs-*/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
